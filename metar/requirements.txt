@@ -1,0 +1,6 @@
+requests
+schedule
+influxdb-client
+Flask
+flask-cors
+jsonify
